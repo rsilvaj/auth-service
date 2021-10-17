@@ -1,4 +1,4 @@
-## Spring boot service + Spring Security + JWT + memory database H2
+## Spring Boot service + Spring Security + JWT + memory database H2
 
 JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 More information: https://jwt.io/
